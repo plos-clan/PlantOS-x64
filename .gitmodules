@@ -1,0 +1,3 @@
+[submodule "src/bootloader/limine"]
+	path = src/bootloader/limine
+	url = https://github.com/limine-bootloader/limine
